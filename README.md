@@ -74,14 +74,11 @@ Después de modificar o añadir algo al código, recuerda o reiniciar tu bot o u
 
 ## ⚙️ Uso:
 
-## KICK
+## AFK
 ![logo](https://cdn.discordapp.com/attachments/933698201486237716/1014627380070981632/unknown.png)
 
 
 
-
-## BAN
-![logo](https://cdn.discordapp.com/attachments/933698201486237716/947561623982329936/unknown.png)
 
 ## 📝 Créditos
 * [DISCORD](https://discord.gg/tecnobros)
