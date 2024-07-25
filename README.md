@@ -4,6 +4,7 @@
 
 # 🤖 Tutorial Discord Bot (TECNO BROS)
 > Código del bot del tutorial de TECNO BROS, el vídeo es [este](https://youtu.be/5Rn375Uzh4c)
+
 ## Requisitos
 
 1. Tener un bot de Discord creado **[Guía](https://www.youtube.com/watch?v=qXev2kf-q_0)**
